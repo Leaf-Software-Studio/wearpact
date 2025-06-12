@@ -1,0 +1,6 @@
+[submodule "wearpact-client"]
+	path = wearpact-client
+	url = git@leaf.github.com:Leaf-Software-Studio/wearpact-client.git
+[submodule "wearpact-admin"]
+	path = wearpact-admin
+	url = git@leaf.github.com:Leaf-Software-Studio/wearpact-admin.git
